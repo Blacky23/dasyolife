@@ -4,5 +4,10 @@ background-color: blue
 
 p {
     color: aqua; 
-    font-size: 40px;
-   font-family: "Times New Roman" , Georgia, Serif;
+    font-size: 70px;
+    font-family: "Times New Roman";  
+}
+img {
+    width: 30%;
+    height: 30%;
+}
